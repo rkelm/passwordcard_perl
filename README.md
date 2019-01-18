@@ -1,4 +1,5 @@
 # passwordcard_perl
+State: RELEASED DEVELOPMENT_ENDED  
 This simple perl script generates a scrambled table of your passwords to be printed/saved as a password card. Input and output are plain text files in 8-bit character encoding. Scrambled passwords may be safer to keep written down or saved on disk, than unscrambled passwords. Somebody knowing any one of your scrambled passwords will be able to read all other passwords! So keep your scrambled password card hidden.
 Use only when there is no safer method to store your passwords, like using a password manager or remembering your passwords.
 
